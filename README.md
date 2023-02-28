@@ -29,7 +29,7 @@
   <li class="parent"><a href="#13">Ek Problemler</a></li>
 </ol>
 
-<button onclick="topFunction()" id="yukariCik" title="Go to top">Başa Dön</button>
+
 Bu konu o kadar önemli ki, bunu anlamak için tam bir bölüm ayırdık. Big O zamanı, algoritmaların verimliliğini tanımlamak için kullanılan bir dil ve ölçüttür. Bu kavramı tam olarak anlamamak, bir algoritma geliştirirken gerçekten zararlı olabilir. Sadece Big O'yu gerçekten anlamadığınız için başkaları tarafından sert bir şekilde eleştirilebilirsiniz ve ayrıca algoritmanızın ne kadar hızlı veya yavaş çalıştığını değerlendirmekte zorluk çekebilirsiniz. Bu nedenle, bu kavramı kesinlikle öğrenmenizi öneriyorum.
 
 <h3 id="1">• Bir Benzetme / Kıyas</h3>
