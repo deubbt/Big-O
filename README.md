@@ -1,12 +1,8 @@
 # Big-O
 > [Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) Kitabının Big O bölümünün çevirisidir. Big O'yu tam anlamıyla öğrenebileceğiniz tek Türkçe kaynak.
 
----
-title: "Big O"
-categories: [algorithm,community]
----
+
 <center><b>Big O</b></center>
-> [Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) Kitabının Big O bölümünün çevirisidir.
 
 
 
